@@ -1,4 +1,4 @@
 # akriti
 first git reposiotary
 <br>
-author -akriti
+author -akriti (giri)
